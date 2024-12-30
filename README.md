@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates the use of evolutionary robotics and algorithms to design both the physical configurations and controllers of tensegrity robots to perform tasks that are not immediately intuitive code or design.
+This project investigates the use of evolutionary robotics and algorithms to design both the physical configurations and controllers of tensegrity robots to perform tasks that are not intuitive to code or design.
 
 A simple 2D physics simulator was developed using Taichi, where gravity and a floor environment are implemented. The robots in this simulation, referred to as tensegrity bots, consist of masses represented as circles connected by motorized springs depicted as lines. Tensegrity robots have practical applications, including potential use as resilient rover designs. Despite their robustness and stability, programming such machines for movement is inherently challenging. A promising solution involves leveraging evolutionary algorithms and neural networks.
 
